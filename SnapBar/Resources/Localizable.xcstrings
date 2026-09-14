@@ -1,0 +1,2230 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld screenshots": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "צילום מסך אחד"
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "שני צילומי מסך"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld צילומי מסך"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld screenshots found on the Desktop.": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "נמצא צילום מסך אחד בשולחן העבודה."
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "נמצאו שני צילומי מסך בשולחן העבודה."
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "נמצאו %lld צילומי מסך בשולחן העבודה."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "A panel that waits for you": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלונית שמחכה לך"
+          }
+        }
+      }
+    },
+    "About SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אודות SnapBar"
+          }
+        }
+      }
+    },
+    "Actual Size": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל אמיתי"
+          }
+        }
+      }
+    },
+    "Add to Favorites": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הוסף למועדפים"
+          }
+        }
+      }
+    },
+    "Add ⌘, ⌃ or ⌥ to the key.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צריך להוסיף ⌘, ⌃ או ⌥ למקש."
+          }
+        }
+      }
+    },
+    "Advanced": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתקדם"
+          }
+        }
+      }
+    },
+    "After 1 minute": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי דקה"
+          }
+        }
+      }
+    },
+    "After 10 seconds": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 10 שניות"
+          }
+        }
+      }
+    },
+    "After 30 days": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 30 ימים"
+          }
+        }
+      }
+    },
+    "After 30 seconds": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 30 שניות"
+          }
+        }
+      }
+    },
+    "After 5 seconds": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 5 שניות"
+          }
+        }
+      }
+    },
+    "After 7 days": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 7 ימים"
+          }
+        }
+      }
+    },
+    "After 90 days": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי 90 ימים"
+          }
+        }
+      }
+    },
+    "After a year": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרי שנה"
+          }
+        }
+      }
+    },
+    "All Screenshots": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל הצילומים"
+          }
+        }
+      }
+    },
+    "Allow Notifications": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר התראות"
+          }
+        }
+      }
+    },
+    "Allow screen recording": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אישור הקלטת מסך"
+          }
+        }
+      }
+    },
+    "Allowed": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מאושר"
+          }
+        }
+      }
+    },
+    "Allow…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר…"
+          }
+        }
+      }
+    },
+    "Another app already uses this shortcut.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפליקציה אחרת כבר משתמשת בקיצור הזה."
+          }
+        }
+      }
+    },
+    "Apps": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפליקציות"
+          }
+        }
+      }
+    },
+    "Apps appear after your first screenshots": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האפליקציות יופיעו כאן אחרי הצילומים הראשונים"
+          }
+        }
+      }
+    },
+    "Arrow": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חץ"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חזרה"
+          }
+        }
+      }
+    },
+    "Blur": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טשטוש"
+          }
+        }
+      }
+    },
+    "Bottom left": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה משמאל"
+          }
+        }
+      }
+    },
+    "Bottom right": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה מימין"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול"
+          }
+        }
+      }
+    },
+    "Capture Area": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צלם אזור"
+          }
+        }
+      }
+    },
+    "Capture Full Screen": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צלם מסך מלא"
+          }
+        }
+      }
+    },
+    "Capture Window": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צלם חלון"
+          }
+        }
+      }
+    },
+    "Capture a window": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום חלון"
+          }
+        }
+      }
+    },
+    "Capture an area": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום אזור"
+          }
+        }
+      }
+    },
+    "Capture the full screen": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך מלא"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחר"
+          }
+        }
+      }
+    },
+    "Choose…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחר…"
+          }
+        }
+      }
+    },
+    "Clear": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקה"
+          }
+        }
+      }
+    },
+    "Click a shortcut, then press the new keys. Esc cancels and Delete clears it. ⇧⌘4 keeps working as usual.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לוחצים על קיצור ואז על המקשים החדשים. Esc מבטל ו-Delete מנקה. ⇧⌘4 ממשיך לעבוד כרגיל."
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגור"
+          }
+        }
+      }
+    },
+    "Close without saving?": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לסגור בלי לשמור?"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המשך"
+          }
+        }
+      }
+    },
+    "Copy": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתק"
+          }
+        }
+      }
+    },
+    "Copy %lld Screenshots": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "העתק צילום אחד"
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "העתק שני צילומים"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "העתק %lld צילומים"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Copy Path": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתק נתיב"
+          }
+        }
+      }
+    },
+    "Copy Text": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתק טקסט"
+          }
+        }
+      }
+    },
+    "Copy them to the clipboard and library too": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להעתיק גם אותם ללוח ולספרייה"
+          }
+        }
+      }
+    },
+    "Corner": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פינה"
+          }
+        }
+      }
+    },
+    "Crop": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך"
+          }
+        }
+      }
+    },
+    "Custom Range": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טווח מותאם"
+          }
+        }
+      }
+    },
+    "Cut": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גזור"
+          }
+        }
+      }
+    },
+    "Dates": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תאריכים"
+          }
+        }
+      }
+    },
+    "Drag into any app": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר לגרור לכל אפליקציה"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערוך"
+          }
+        }
+      }
+    },
+    "Ellipse": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אליפסה"
+          }
+        }
+      }
+    },
+    "Every screenshot in one place": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל הצילומים במקום אחד"
+          }
+        }
+      }
+    },
+    "Every screenshot lands on the clipboard and in one tidy folder at the same time.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל צילום נכנס ללוח וגם לתיקייה מסודרת אחת, באותו רגע."
+          }
+        }
+      }
+    },
+    "Export": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא"
+          }
+        }
+      }
+    },
+    "Export as JPEG…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא כ-JPEG…"
+          }
+        }
+      }
+    },
+    "Export…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא…"
+          }
+        }
+      }
+    },
+    "Favorite": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מועדף"
+          }
+        }
+      }
+    },
+    "Favorites": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מועדפים"
+          }
+        }
+      }
+    },
+    "Favorites are always kept.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מועדפים נשמרים תמיד."
+          }
+        }
+      }
+    },
+    "File": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קובץ"
+          }
+        }
+      }
+    },
+    "Files": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קבצים"
+          }
+        }
+      }
+    },
+    "Filter by date, by app, or by words that appear inside the picture.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סינון לפי תאריך, לפי אפליקציה או לפי מילים שמופיעות בתוך התמונה."
+          }
+        }
+      }
+    },
+    "From": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתאריך"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כללי"
+          }
+        }
+      }
+    },
+    "Halves the pixel size so files are smaller. Leave it off for full sharpness.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקטין את התמונה לחצי כדי שהקבצים יהיו קטנים יותר. כשזה כבוי, החדות מלאה."
+          }
+        }
+      }
+    },
+    "Help": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עזרה"
+          }
+        }
+      }
+    },
+    "Hide SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתר את SnapBar"
+          }
+        }
+      }
+    },
+    "Hide automatically": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה אוטומטית"
+          }
+        }
+      }
+    },
+    "Highlighter": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מרקר"
+          }
+        }
+      }
+    },
+    "If it stays off after you allow it, quit SnapBar and open it again.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אם זה נשאר כבוי אחרי האישור, צריך לצאת מ-SnapBar ולפתוח אותה מחדש."
+          }
+        }
+      }
+    },
+    "Import": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא"
+          }
+        }
+      }
+    },
+    "Import %lld Screenshots…": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ייבוא צילום אחד…"
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ייבוא שני צילומים…"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ייבוא %lld צילומים…"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Import %lld screenshots?": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "לייבא צילום אחד?"
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "לייבא שני צילומים?"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "לייבא %lld צילומים?"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Import Screenshots from the Desktop…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא צילומים משולחן העבודה…"
+          }
+        }
+      }
+    },
+    "Imported": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיובאים"
+          }
+        }
+      }
+    },
+    "It is on the clipboard. Click Copy to copy it again.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום כבר בלוח. לחיצה על העתק מעתיקה אותו שוב."
+          }
+        }
+      }
+    },
+    "It stays in the corner until you close it or use it. Drag it straight into a chat.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היא נשארת בפינה עד שסוגרים אותה או משתמשים בה. אפשר לגרור ממנה ישר לצ'אט."
+          }
+        }
+      }
+    },
+    "Largest Files First": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקבצים הגדולים קודם"
+          }
+        }
+      }
+    },
+    "Last 30 Days": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 הימים האחרונים"
+          }
+        }
+      }
+    },
+    "Last 7 Days": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 הימים האחרונים"
+          }
+        }
+      }
+    },
+    "Later": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחר כך"
+          }
+        }
+      }
+    },
+    "Library": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספרייה"
+          }
+        }
+      }
+    },
+    "Library index": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אינדקס הספרייה"
+          }
+        }
+      }
+    },
+    "Line": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קו"
+          }
+        }
+      }
+    },
+    "Log": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יומן"
+          }
+        }
+      }
+    },
+    "Maintenance": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תחזוקה"
+          }
+        }
+      }
+    },
+    "Medium": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בינוני"
+          }
+        }
+      }
+    },
+    "Minimize": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מזער"
+          }
+        }
+      }
+    },
+    "Move %lld screenshots to the Trash?": {
+      "localizations": {
+        "he": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "להעביר צילום אחד לפח?"
+                }
+              },
+              "two": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "להעביר שני צילומים לפח?"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "להעביר %lld צילומים לפח?"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Move old screenshots to the Trash": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העברת צילומים ישנים לפח"
+          }
+        }
+      }
+    },
+    "Move the screenshots already on your Desktop into the SnapBar folder so they show up in the library.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר להעביר את הצילומים שכבר נמצאים בשולחן העבודה לתיקיית SnapBar, כדי שיופיעו בספרייה."
+          }
+        }
+      }
+    },
+    "Move this screenshot to the Trash?": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להעביר את הצילום הזה לפח?"
+          }
+        }
+      }
+    },
+    "Move to Trash": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העבר לפח"
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אף פעם"
+          }
+        }
+      }
+    },
+    "Newest First": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החדשים קודם"
+          }
+        }
+      }
+    },
+    "No screenshots to import": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין צילומים לייבוא"
+          }
+        }
+      }
+    },
+    "No screenshots yet": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עוד אין צילומים"
+          }
+        }
+      }
+    },
+    "Not allowed": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא מאושר"
+          }
+        }
+      }
+    },
+    "Not allowed yet": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עוד לא מאושר"
+          }
+        }
+      }
+    },
+    "Not asked yet": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עוד לא נשאל"
+          }
+        }
+      }
+    },
+    "Nothing matches these filters": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין צילומים שמתאימים לסינון"
+          }
+        }
+      }
+    },
+    "Notifications": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התראות"
+          }
+        }
+      }
+    },
+    "Notifications (optional)": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התראות (לא חובה)"
+          }
+        }
+      }
+    },
+    "Oldest First": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הישנים קודם"
+          }
+        }
+      }
+    },
+    "One folder for everything. You can change it any time in Settings.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תיקייה אחת לכל הצילומים. אפשר לשנות אותה בכל רגע בהגדרות."
+          }
+        }
+      }
+    },
+    "Open Log File": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתח את קובץ היומן"
+          }
+        }
+      }
+    },
+    "Open Screenshots Folder": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתח את תיקיית הצילומים"
+          }
+        }
+      }
+    },
+    "Open SnapBar when you log in": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לפתוח את SnapBar כשהמחשב עולה"
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתח את הגדרות המערכת"
+          }
+        }
+      }
+    },
+    "Open the library": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת הספרייה"
+          }
+        }
+      }
+    },
+    "Panel": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלונית"
+          }
+        }
+      }
+    },
+    "Paste": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדבק"
+          }
+        }
+      }
+    },
+    "Pen": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עט"
+          }
+        }
+      }
+    },
+    "Play the shutter sound": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להשמיע צליל צמצם"
+          }
+        }
+      }
+    },
+    "Press keys…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקש מקשים…"
+          }
+        }
+      }
+    },
+    "Press ⇧⌘S to take your first one. It will appear here.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לוחצים ⇧⌘S לצילום הראשון, והוא יופיע כאן."
+          }
+        }
+      }
+    },
+    "Quit SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צא מ-SnapBar"
+          }
+        }
+      }
+    },
+    "Rebuild Thumbnails": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בנה מחדש את התמונות הממוזערות"
+          }
+        }
+      }
+    },
+    "Record Shortcut": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלט קיצור"
+          }
+        }
+      }
+    },
+    "Rectangle": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מלבן"
+          }
+        }
+      }
+    },
+    "Redo": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בצע שוב"
+          }
+        }
+      }
+    },
+    "Regular macOS screenshots": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך רגילים של macOS"
+          }
+        }
+      }
+    },
+    "Regular macOS screenshots (⇧⌘4)": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך רגילים של macOS (⇧⌘4)"
+          }
+        }
+      }
+    },
+    "Remove from Favorites": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסר מהמועדפים"
+          }
+        }
+      }
+    },
+    "Replace": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלף"
+          }
+        }
+      }
+    },
+    "Replace the original screenshot?": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להחליף את הצילום המקורי?"
+          }
+        }
+      }
+    },
+    "Request Access": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בקש הרשאה"
+          }
+        }
+      }
+    },
+    "Reset Crop": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בטל חיתוך"
+          }
+        }
+      }
+    },
+    "Restore Default Shortcuts": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחזר את קיצורי ברירת המחדל"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמור"
+          }
+        }
+      }
+    },
+    "Save As PNG…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמור בשם כ-PNG…"
+          }
+        }
+      }
+    },
+    "Save As…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמור בשם…"
+          }
+        }
+      }
+    },
+    "Save Retina screenshots at 1x size": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לשמור צילומי Retina בגודל 1x"
+          }
+        }
+      }
+    },
+    "Save them in the SnapBar folder": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לשמור אותם בתיקיית SnapBar"
+          }
+        }
+      }
+    },
+    "Save them in the SnapBar folder instead of the Desktop": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לשמור אותם בתיקיית SnapBar במקום בשולחן העבודה"
+          }
+        }
+      }
+    },
+    "Saving": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה"
+          }
+        }
+      }
+    },
+    "Screenshot Library": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספריית צילומים"
+          }
+        }
+      }
+    },
+    "Screenshot Library…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספריית צילומים…"
+          }
+        }
+      }
+    },
+    "Screenshot saved": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום נשמר"
+          }
+        }
+      }
+    },
+    "Screenshots folder": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תיקיית הצילומים"
+          }
+        }
+      }
+    },
+    "Screenshots in the library": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומים בספרייה"
+          }
+        }
+      }
+    },
+    "Screenshots on the Desktop": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומים בשולחן העבודה"
+          }
+        }
+      }
+    },
+    "Screenshots that paste right away and never get lost.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך שמודבקים מיד ולא הולכים לאיבוד."
+          }
+        }
+      }
+    },
+    "Search text in screenshots": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש טקסט בתוך הצילומים"
+          }
+        }
+      }
+    },
+    "Select All": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחר הכל"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרות…"
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורים"
+          }
+        }
+      }
+    },
+    "Show a panel in the corner after each screenshot": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להציג חלונית בפינה אחרי כל צילום"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצג ב-Finder"
+          }
+        }
+      }
+    },
+    "Show the Welcome Guide Again": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצג שוב את מדריך הפתיחה"
+          }
+        }
+      }
+    },
+    "SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapBar"
+          }
+        }
+      }
+    },
+    "SnapBar needs Screen Recording permission. Open System Settings, turn on SnapBar under Screen Recording, then capture again.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapBar צריכה הרשאת הקלטת מסך. פותחים את הגדרות המערכת, מדליקים את SnapBar תחת הקלטת מסך, ומצלמים שוב."
+          }
+        }
+      }
+    },
+    "SnapBar uses a notification only if you turn the corner panel off.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapBar שולחת התראה רק כשהחלונית בפינה כבויה."
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיון"
+          }
+        }
+      }
+    },
+    "Source": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקור"
+          }
+        }
+      }
+    },
+    "Start Using SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתחילים לעבוד"
+          }
+        }
+      }
+    },
+    "Startup": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה"
+          }
+        }
+      }
+    },
+    "Step Number": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספור שלבים"
+          }
+        }
+      }
+    },
+    "Text": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טקסט"
+          }
+        }
+      }
+    },
+    "The marks become part of the picture. Use Save As to keep the original.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסימונים יהפכו לחלק מהתמונה. כדי לשמור את המקור, משתמשים בשמור בשם."
+          }
+        }
+      }
+    },
+    "The panel stays until you close it or use it. Up to five stack in the corner.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלונית נשארת עד שסוגרים אותה או משתמשים בה. עד חמש חלוניות נערמות בפינה."
+          }
+        }
+      }
+    },
+    "The screenshot came out empty": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום יצא ריק"
+          }
+        }
+      }
+    },
+    "The second switch changes a macOS setting. It stays off unless you turn it on.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המתג השני משנה הגדרה של macOS. הוא כבוי עד שמדליקים אותו."
+          }
+        }
+      }
+    },
+    "There are no screenshots on your Desktop to import.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין בשולחן העבודה צילומים לייבוא."
+          }
+        }
+      }
+    },
+    "They move from %@ into %@ and show up in the library.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הם יעברו מ-%1$@ אל %2$@ ויופיעו בספרייה."
+          }
+        }
+      }
+    },
+    "Thick": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עבה"
+          }
+        }
+      }
+    },
+    "Thin": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דק"
+          }
+        }
+      }
+    },
+    "This Month": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החודש"
+          }
+        }
+      }
+    },
+    "This changes where macOS itself saves ⇧⌘4 screenshots. Turn it off to go back to the Desktop.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זה משנה לאן macOS עצמה שומרת צילומי ⇧⌘4. כיבוי מחזיר את השמירה לשולחן העבודה."
+          }
+        }
+      }
+    },
+    "Thumbnail Size": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל התמונות"
+          }
+        }
+      }
+    },
+    "Tidy up your Desktop": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסדרים את שולחן העבודה"
+          }
+        }
+      }
+    },
+    "To": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עד תאריך"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היום"
+          }
+        }
+      }
+    },
+    "Tools": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלים"
+          }
+        }
+      }
+    },
+    "Top left": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה משמאל"
+          }
+        }
+      }
+    },
+    "Top right": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה מימין"
+          }
+        }
+      }
+    },
+    "Try another date or clear the search.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר לנסות תאריך אחר או לנקות את החיפוש."
+          }
+        }
+      }
+    },
+    "Type here": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתבו כאן"
+          }
+        }
+      }
+    },
+    "Undo": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בטל פעולה"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרסה"
+          }
+        }
+      }
+    },
+    "View": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה"
+          }
+        }
+      }
+    },
+    "Welcome to SnapBar": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברוכים הבאים ל-SnapBar"
+          }
+        }
+      }
+    },
+    "When the panel is off": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כשהחלונית כבויה"
+          }
+        }
+      }
+    },
+    "Where screenshots are saved": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפה הצילומים נשמרים"
+          }
+        }
+      }
+    },
+    "Window": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלון"
+          }
+        }
+      }
+    },
+    "Yesterday": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אתמול"
+          }
+        }
+      }
+    },
+    "You can restore them from the Trash.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר לשחזר אותם מהפח."
+          }
+        }
+      }
+    },
+    "Your marks will be lost. Copy or save first to keep them.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסימונים יאבדו. כדי לשמור אותם, קודם מעתיקים או שומרים."
+          }
+        }
+      }
+    },
+    "Zoom In": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדל"
+          }
+        }
+      }
+    },
+    "Zoom Out": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקטן"
+          }
+        }
+      }
+    },
+    "Zoom to Fit": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאם לחלון"
+          }
+        }
+      }
+    },
+    "edited": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערוך"
+          }
+        }
+      }
+    },
+    "editor.subtitle": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכה"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editing"
+          }
+        }
+      }
+    },
+    "macOS Screenshots": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי macOS"
+          }
+        }
+      }
+    },
+    "macOS already uses %@.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS כבר משתמשת ב-%@."
+          }
+        }
+      }
+    },
+    "macOS asks every app that takes screenshots for this permission. Without it, screenshots come out empty.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS מבקשת את ההרשאה הזו מכל אפליקציה שמצלמת מסך. בלעדיה הצילומים יוצאים ריקים."
+          }
+        }
+      }
+    },
+    "menu.edit": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכה"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "menu.file": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קובץ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File"
+          }
+        }
+      }
+    },
+    "menu.tools": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלים"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tools"
+          }
+        }
+      }
+    },
+    "menu.view": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View"
+          }
+        }
+      }
+    },
+    "menu.window": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלון"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Window"
+          }
+        }
+      }
+    },
+    "⇧⌘4 keeps working. SnapBar can catch those screenshots too.": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "⇧⌘4 ממשיך לעבוד. SnapBar יכולה לתפוס גם את הצילומים האלה."
+          }
+        }
+      }
+    },
+    "⇧⌘S copies and saves": {
+      "localizations": {
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "⇧⌘S מעתיק ושומר"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

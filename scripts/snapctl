@@ -1,0 +1,13 @@
+#!/bin/bash
+# Sends a command to a running Debug build of SnapBar (see SnapBar/App/DebugHooks.swift).
+#   scripts/snapctl library
+#   scripts/snapctl snapshot /path/prefix
+#   scripts/snapctl ingest /path/image.png "Safari"
+CMD="${1:?command}" ARG="${2:-}" APPNAME="${3:-}" osascript -l JavaScript -e '
+ObjC.import("Foundation");
+var env = $.NSProcessInfo.processInfo.environment;
+var c = ObjC.unwrap(env.objectForKey("CMD"));
+var a = ObjC.unwrap(env.objectForKey("ARG")) || "";
+var p = ObjC.unwrap(env.objectForKey("APPNAME")) || "";
+$.NSDistributedNotificationCenter.defaultCenter.postNotificationNameObjectUserInfoDeliverImmediately(
+  "co.il.ckdigital360.snapbar.debug", c, $({arg: a, app: p}), true);' >/dev/null

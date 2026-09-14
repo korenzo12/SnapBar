@@ -1,0 +1,77 @@
+name: SnapBar
+options:
+  bundleIdPrefix: co.il.ckdigital360
+  deploymentTarget:
+    macOS: "15.0"
+  developmentLanguage: en
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MACOSX_DEPLOYMENT_TARGET: "15.0"
+    CODE_SIGN_STYLE: Manual
+    CODE_SIGN_IDENTITY: "-"
+    DEVELOPMENT_TEAM: ""
+    ENABLE_HARDENED_RUNTIME: NO
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_EMIT_LOC_STRINGS: YES
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    DEAD_CODE_STRIPPING: YES
+targets:
+  SnapBar:
+    type: application
+    platform: macOS
+    sources:
+      - path: SnapBar
+    dependencies:
+      - sdk: AppIntents.framework
+    info:
+      path: SnapBar/Info.plist
+      properties:
+        CFBundleName: SnapBar
+        CFBundleDisplayName: SnapBar
+        CFBundleDevelopmentRegion: en
+        CFBundleAllowMixedLocalizations: true
+        CFBundleShortVersionString: "$(MARKETING_VERSION)"
+        CFBundleVersion: "$(CURRENT_PROJECT_VERSION)"
+        LSMinimumSystemVersion: "$(MACOSX_DEPLOYMENT_TARGET)"
+        LSUIElement: true
+        LSApplicationCategoryType: public.app-category.productivity
+        NSPrincipalClass: NSApplication
+        NSHumanReadableCopyright: "© 2026 CK Digital 360"
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: co.il.ckdigital360.snapbar
+        PRODUCT_NAME: SnapBar
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        GENERATE_INFOPLIST_FILE: NO
+        COMBINE_HIDPI_IMAGES: YES
+  SnapBarTests:
+    type: bundle.unit-test
+    platform: macOS
+    sources:
+      - path: SnapBarTests
+    dependencies:
+      - target: SnapBar
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: co.il.ckdigital360.snapbar.tests
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/SnapBar.app/Contents/MacOS/SnapBar"
+        BUNDLE_LOADER: "$(TEST_HOST)"
+schemes:
+  SnapBar:
+    build:
+      targets:
+        SnapBar: all
+        SnapBarTests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      gatherCoverageData: false
+      targets:
+        - SnapBarTests
+    archive:
+      config: Release
