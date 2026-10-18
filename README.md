@@ -40,7 +40,8 @@ macOS saves every screenshot to a file only, so pasting right after a capture do
 1. לפתוח את הקובץ ולגרור את SnapBar לתיקיית היישומים.
 2. **בפתיחה הראשונה macOS תחסום את האפליקציה.** זה קורה לכל אפליקציה חינמית שאין לה תעודה
    בתשלום מאפל, וזה לא סימן שמשהו לא בסדר. הדרך לפתוח אותה בכל זאת:
-   הגדרות המערכת ← פרטיות ואבטחה ← לגלול למטה ← **"פתח בכל זאת"**.
+   קודם לנסות לפתוח אותה פעם אחת ולסגור את הודעת החסימה, כי הכפתור מופיע רק אחרי ניסיון פתיחה.
+   אחר כך: הגדרות המערכת ← פרטיות ואבטחה ← לגלול למטה ← **"פתח בכל זאת"**.
    בגרסאות macOS 15 ומעלה לחיצה ימנית ← פתח כבר לא עוקפת את החסימה, רק המסלול הזה.
 3. לאשר הרשאת **הקלטת מסך** כשהיא מתבקשת, ואז לצאת מהאפליקציה ולפתוח אותה שוב.
    בלי ההרשאה הזו הצילומים יוצאים ריקים.
@@ -57,7 +58,7 @@ git clone <repo-url> snapbar && cd snapbar
 ./scripts/install.sh
 ```
 
-הסקריפט בונה גרסת Release, מתקין ל-`/Applications/SnapBar.app` ומפעיל. גרסה קודמת עוברת לאשפה ולא נמחקת.
+הסקריפט בונה גרסת Release בלבד, מתקין ל-`/Applications/SnapBar.app` ומפעיל. אם כבר מותקנת גרסה קודמת, הסקריפט מעביר אותה לאשפה (עם תאריך ושעה בשם) ולא מוחק אותה.
 
 לפיתוח בתוך Xcode:
 
@@ -124,10 +125,11 @@ python3 scripts/make-strings.py    # rebuild the Hebrew string catalog, fails if
 ./scripts/make-icon.sh             # regenerate the app icon
 ```
 
-בבנייה של Debug בלבד יש מערכת בדיקות שמריצה את האפליקציה מהטרמינל:
+בבנייה של Debug בלבד יש מערכת בדיקות שמריצה את האפליקציה מהטרמינל. `install.sh` בונה רק Release, ולכן צריך קודם לבנות Debug. הבנייה יוצאת ל-`~/Library/Developer/SnapBar/DerivedData` ולא לתיקיית `build/` שבפרויקט:
 
 ```bash
-SNAPBAR_HOME=/tmp/snapbar-test ./build/DerivedData/Build/Products/Debug/SnapBar.app/Contents/MacOS/SnapBar &
+CONFIGS=Debug ./scripts/build.sh
+SNAPBAR_HOME=/tmp/snapbar-test ~/Library/Developer/SnapBar/DerivedData/Build/Products/Debug/SnapBar.app/Contents/MacOS/SnapBar &
 ./scripts/snapctl library          # open the library
 ./scripts/snapctl ingest /path/to/image.png "Safari"
 ./scripts/snapctl snapshot /tmp/shot
